@@ -1,3 +1,6 @@
+body{
+     touch-action: auto;
+}
 .gradient-bg {
     background: linear-gradient(135deg, #F3921D, #222222);
     }
